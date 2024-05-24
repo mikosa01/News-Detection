@@ -31,8 +31,8 @@ Open the Jupyter notebook fake_news_detection.ipynb and run the cells sequential
 └── fake_news_detection.ipynb
 
 # Data Preprocessing
-Loading Data:
 
+Loading Data:
 The data is loaded from true.csv and fake.csv files.
 Combining Data:
 
